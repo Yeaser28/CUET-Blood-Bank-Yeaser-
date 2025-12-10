@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../../../CUET Blood Bank (Yeaser)"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.dbclient-js": "javascript",
+			"cmath": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
